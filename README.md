@@ -21,7 +21,6 @@ I’m building practical projects with Python and web technologies, and I’m in
 - 📚 I enjoy learning English and sharing knowledge through teaching.
 - 🌍 My long-term goal is to build technology that makes learning and opportunity more accessible.
 
-<div align="center">
 ## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -29,7 +28,6 @@ I’m building practical projects with Python and web technologies, and I’m in
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-</div>
 
 ## 🚀 Projects
 | Project | Description | Built with |
