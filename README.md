@@ -58,11 +58,11 @@ I’m building practical projects with Python and web technologies, and I’m in
 - Git and GitHub workflows
 - Object-oriented programming and full-stack development fundamentals
 
-## 🤝 Let's Connect
 
 <div align="center">
-<img src="assets/profile-banner.svg" alt="Nazila Mirzaie — Developer in Progress" width="100%"/>
-
+<img src="assets/profile-banner.svg" width="100%"/>
+  
+# 🤝 Let's Connect
 **GitHub:** [@NazilaMirzaie](https://github.com/NazilaMirzaie)
 **Email:** Add a public contact email here if you want to share one.
 ### “Small steps every day lead to meaningful progress.” ✨
