@@ -60,7 +60,6 @@ I’m building practical projects with Python and web technologies, and I’m in
 
 
 <div align="center">
-<img src="assets/profile-banner.svg" width="100%"/>
   
 # 🤝 Let's Connect
 **GitHub:** [@NazilaMirzaie](https://github.com/NazilaMirzaie)
