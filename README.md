@@ -53,7 +53,6 @@ I enjoy turning ideas into polished digital experiences, with attention to usabi
   
 # 🤝 Let's Connect
 **GitHub:** [@NazilaMirzaie](https://github.com/NazilaMirzaie)
-**LinkedIn:** (https://www.linkedin.com/in/nazila-mirzaie-397664438?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
 ### “Small steps every day lead to meaningful progress.” ✨
 
 *Thanks for visiting my profile!*
