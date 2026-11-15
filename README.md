@@ -14,12 +14,17 @@ I’m building practical projects with Python and web technologies, and I’m in
 ---
 
 ## ✨ About Me
-- 🌱 Learning and practicing **Python, HTML, CSS, and JavaScript**.
-- 💻 Building small applications, interactive websites, and creative learning projects.
-- 🧠 Interested in **Computer Science, software development, and AI**.
-- 🎯 Building a project portfolio for future scholarship, internship, and job opportunities.
-- 📚 I enjoy learning English and sharing knowledge through teaching.
-- 🌍 My long-term goal is to build technology that makes learning and opportunity more accessible.
+I’m a frontend developer focused on building modern, responsive, and thoughtfully designed web applications.
+
+I enjoy turning ideas into polished digital experiences, with attention to usability, performance, accessibility, and clean code.
+
+• Core focus: HTML, CSS, and TypeScript
+
+• Beyond frontend: Python
+
+• Learning mindset: Continuously exploring better ways to build for the web
+
+📍 Kabul, Afghanistan
 
 ## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
