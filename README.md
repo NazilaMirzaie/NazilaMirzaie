@@ -34,16 +34,9 @@ I’m building practical projects with Python and web technologies, and I’m in
 |---|---|---|
 | 🎨 Personal Portfolio | Responsive website introducing me and showcasing my work. | HTML · CSS · JavaScript |
 | 🌙 Asma Ul Husna | Learning project featuring the 99 Names of Allah and multilingual content. | HTML · CSS · JavaScript |
-| 🍽️ Nazo Restaurant Website | Multi-page restaurant website with menu sections. | HTML · CSS · JavaScript |
-| ☕ Coffee House Website | Themed coffee-house website. | HTML · CSS · JavaScript |
-| 🖼️ Multilingual Image Gallery | Gallery concept with Dari, Pashto, and English options. | HTML · CSS · JavaScript |
-| 🗝️ Treasure Room Adventure | Text-based adventure game with choices and outcomes. | Python |
+| 🗝️ Lost Kingdom Game | Text-based adventure game with choices and outcomes. | Python |
 | 🏜️ Desert Survival | Decision-based game to practice Python fundamentals. | Python |
-| ✂️ Rock Paper Scissors | Classic game for practicing conditions and input. | Python |
-| 🔐 Caesar Cipher | Beginner text encryption/decryption practice project. | Python |
 | 🎲 Number Guessing Game | Interactive game using loops, conditions, and input. | Python |
-
-> Add links to the real repositories when you publish each project.
 
 ## 📊 GitHub Stats
 <div align="center">
@@ -63,7 +56,7 @@ I’m building practical projects with Python and web technologies, and I’m in
   
 # 🤝 Let's Connect
 **GitHub:** [@NazilaMirzaie](https://github.com/NazilaMirzaie)
-**Email:** Add a public contact email here if you want to share one.
+**LinkedIn:** (https://www.linkedin.com/in/nazila-mirzaie-397664438?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
 ### “Small steps every day lead to meaningful progress.” ✨
 
 *Thanks for visiting my profile!*
