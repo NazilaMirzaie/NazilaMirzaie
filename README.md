@@ -14,7 +14,7 @@ I’m building practical projects with Python and web technologies, and I’m in
 ---
 
 ##  About Me
-I’m a frontend developer focused on building modern, responsive, and thoughtfully designed web applications.
+I’m a frontend developer focused on building modern, responsive, and thoughtfully designed web sites.
 
 I enjoy turning ideas into polished digital experiences, with attention to usability, performance, accessibility, and clean code.
 
